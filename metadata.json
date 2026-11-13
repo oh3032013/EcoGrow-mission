@@ -1,0 +1,6 @@
+{
+  "name": "Willowvale Homestead",
+  "description": "A cozy 2D pixel-art top-down farming simulation and survival game where you restore a neglected homestead across changing seasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

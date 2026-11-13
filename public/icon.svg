@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <rect width="64" height="64" rx="12" fill="#3a6b35"/>
+  <rect x="6" y="6" width="52" height="52" rx="8" fill="#5c9c3d"/>
+  <!-- Cozy Barn / Farmhouse -->
+  <rect x="14" y="30" width="36" height="22" fill="#e8d5b5"/>
+  <rect x="14" y="48" width="36" height="4" fill="#734b2e"/>
+  <rect x="10" y="22" width="44" height="10" fill="#b34b39"/>
+  <rect x="16" y="16" width="32" height="8" fill="#d9765f"/>
+  <rect x="40" y="12" width="6" height="10" fill="#75665d"/>
+  <!-- Door & Window -->
+  <rect x="27" y="37" width="10" height="15" fill="#6b4528"/>
+  <rect x="18" y="35" width="6" height="6" fill="#ffd666"/>
+  <rect x="40" y="35" width="6" height="6" fill="#ffd666"/>
+  <!-- Golden Wheat Sprout -->
+  <rect x="29" y="8" width="6" height="6" fill="#f7de8a"/>
+</svg>
